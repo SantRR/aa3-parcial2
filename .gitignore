@@ -1,0 +1,4 @@
+# Solo se suben los tres cuadernos: ni datos, ni modelos, ni adaptadores
+datos/
+modelos/
+.ipynb_checkpoints/
